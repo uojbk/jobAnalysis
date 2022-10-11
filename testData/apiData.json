@@ -1,0 +1,145 @@
+{
+    "code": 200,
+    "data": {
+        "detailedCompany": {
+            "companyLogo": "https://rd5-public.zhaopin.cn/imgs/company/3c6f8b374af347b0decdcfff3468618f.jpg",
+            "videoUrl": "",
+            "financingStageName": "已上市",
+            "companyName": "智联网络技术有限公司",
+            "companyNumber": "CZ827052890",
+            "menVipUrl": "",
+            "menVipLevel": 0,
+            "industryNameLevel": "互联网",
+            "companySize": "1000-9999人",
+            "companyDescription": "智联招聘是中国领先的职业发展平台，为用户的整个职业生涯提供相关职业及发展机会。    近年来，智联招聘积极进行战略转型，以覆盖求职者整个职业生涯为出发点，打造“3的三次方”产品模型，即为学生、白领、高端（专业人士或管理人士），匹配3类产品：测评（我是谁）、网络招聘（我能干什么）、教育培训（我如何进步），并通过线上、线下、无线三个渠道，为职场人的全面发展打造平台。从而实现从“简历仓库”到“人才加工厂”的战略转型，为中国人才市场打造一个闭环生态链。    智联优势：专业服务：成立于1994年的智联招聘，是国内首屈一指的人力资源服务商，率先将国际先进的人力资源服务理念与经验同中国迅速发展的人才市场实际情况相结合，确保专业、迅速、准确地为企业找到合适人才。    全渠道广泛覆盖：通过与搜索引擎、联盟、社交网络等合作，全方位、多渠道锁定各职业发展阶段的求职人群。同时在全国拥有37家分公司，南北两大互动营销中心，覆盖100多座城市，形成“线上+线下+无线”联动的招聘平台。    广受信赖的职业发展平台：智联招聘旗下的zhaopin.com网站是中国备受欢迎的招聘网站，日均活跃求职者用户468万，累计合作企业351万家。截至2016年12月31日，在过去的12个月中，跨国公司、中小型企业和国企等雇主在智联招聘的平台上年度共计发布约4111万个工作职位。    强大的优质人才储备：23年人才储备历史，智联拥有强大的白领人才库，截至2017年3月31日，智联招聘拥有1.35亿注册用户，平均学历及综合素质为行业内领先，同时在优质人才群体中拥有极高的忠诚度。 ",
+            "companyUrl": "http://company.zhaopin.com/CZ827052890.htm",
+            "bestEmployerType": 0,
+            "bestEmployerLabel": [
+                {
+                    "state": 0,
+                    "value": "工作环境好"
+                },
+                {
+                    "state": 0,
+                    "value": "氛围活跃"
+                },
+                {
+                    "state": 0,
+                    "value": "同事很nice"
+                }
+            ],
+            "industryLevel": "互联网",
+            "url": "http://company.zhaopin.com/CZ827052890.htm"
+        },
+        "detailedPosition": {
+            "welfareLabel": [
+                {
+                    "state": 0,
+                    "value": "五险一金"
+                },
+                {
+                    "state": 0,
+                    "value": "带薪年假"
+                },
+                {
+                    "state": 0,
+                    "value": "节日福利"
+                },
+                {
+                    "state": 0,
+                    "value": "周末双休"
+                }
+            ],
+            "workType": "全职",
+            "tradingArea": "",
+            "subJobType": "47",
+            "positionStatus": 3,
+            "skillLabel": [
+                {
+                    "state": 0,
+                    "value": "SQL"
+                },
+                {
+                    "state": 0,
+                    "value": "SAS"
+                },
+                {
+                    "state": 0,
+                    "value": "Python"
+                }
+            ],
+            "jobDesc": "<p>1. 从宏观角度构建业务部门数据模型，提供强有力的预测分析，数据监测及预警支持。</p> <p>2. 深度参与经营管理分析，搭建业务经营分析框架，进行ROI相关数据统计，变化趋势分析，日常监控，提供决策依据。</p><p>3. 负责重要专项分析，能够利用合理的数据模型和算法，主动发现业务的问题和机会，支持所负责业务模块的重要战略决策。</p> <p>4. 参与日常业务数据分析需求调研，与产研深度配合，完成可视化分析报表及经营分析报告输出。</p> <p>5. 了解项目管理，能协调外部服务厂商，跟进数据仓库建设及数据应用过程中的问题。</p> <p>6. 完成领导交办的其他工作。</p><p>岗位要求：</p><p>1. 对数据敏感，优秀的学习能力，逻辑思维能力，归纳总结能力，具备优秀</p><p>的抽象思维及商业化思维，善于通过数据发现问题本质，探索业务增长点。</p> <p> 2. 熟练掌握SQL,会使用Phython,SAS等分析工具，熟悉BI模型构建等过程。</p> <p> 3. 工作严谨认真，具备优秀的抗压能力和独立解决问题的能力</p><div>  <br> </div>",
+            "workAddress": "中关村",
+            "latitude": "39.984586",
+            "longitude": "116.322601",
+            "positionPublishTime": "2022-09-28 10:41:10",
+            "education": "本科",
+            "positionUrl": "http://jobs.zhaopin.com/CC827052890J40347205012.htm",
+            "applyType": "1",
+            "salary60": "2万-3万",
+            "positionWorkingExp": "5-10年",
+            "positionCityId": "530",
+            "positionWorkCity": "北京",
+            "recruitNumber": 1,
+            "salaryCount": "",
+            "performanceBonus": "",
+            "positionNumber": "CC827052890J40347205012",
+            "positionName": "数据分析",
+            "positionCityDistrict": "海淀区",
+            "positionCommercialLabel": [],
+            "chatWindow": 1,
+            "hasAppliedPosition": false,
+            "positionHighlight": "",
+            "jobTypeLevelName": "数据工程师",
+            "rpoProxied": false,
+            "rpoProxy": false,
+            "rpoProxyDisplayOrgName": "",
+            "futureJob": false,
+            "futureJobUrl": "",
+            "bestEmployerType": 0,
+            "bestEmployerLabel": [
+                {
+                    "state": 0,
+                    "value": "工作环境好"
+                },
+                {
+                    "state": 0,
+                    "value": "氛围活跃"
+                },
+                {
+                    "state": 0,
+                    "value": "同事很nice"
+                }
+            ],
+            "companyName": "智联网络技术有限公司",
+            "companyNumber": "CZ827052890",
+            "menVipUrl": "",
+            "menVipLevel": 0,
+            "jobDescPC": "<p>1. 从宏观角度构建业务部门数据模型，提供强有力的预测分析，数据监测及预警支持。</p> <p>2. 深度参与经营管理分析，搭建业务经营分析框架，进行ROI相关数据统计，变化趋势分析，日常监控，提供决策依据。</p><p>3. 负责重要专项分析，能够利用合理的数据模型和算法，主动发现业务的问题和机会，支持所负责业务模块的重要战略决策。</p> <p>4. 参与日常业务数据分析需求调研，与产研深度配合，完成可视化分析报表及经营分析报告输出。</p> <p>5. 了解项目管理，能协调外部服务厂商，跟进数据仓库建设及数据应用过程中的问题。</p> <p>6. 完成领导交办的其他工作。</p><p>岗位要求：</p><p>1. 对数据敏感，优秀的学习能力，逻辑思维能力，归纳总结能力，具备优秀</p><p>的抽象思维及商业化思维，善于通过数据发现问题本质，探索业务增长点。</p> <p> 2. 熟练掌握SQL,会使用Phython,SAS等分析工具，熟悉BI模型构建等过程。</p> <p> 3. 工作严谨认真，具备优秀的抗压能力和独立解决问题的能力</p><div>  <br> </div>",
+            "emplType": "全职",
+            "jobStatus": 3,
+            "publishTime": "2022-09-28 10:41:10",
+            "workingExp": "5-10年",
+            "cityId": "530",
+            "workCity": "北京",
+            "number": "CC827052890J40347205012",
+            "name": "数据分析",
+            "cityDistrict": "海淀区",
+            "staff": {
+                "authenticationState": 1,
+                "avatar": "https://rd5-public.zhaopin.cn/imgs/avatar_f1.png",
+                "hrJob": "HR",
+                "hrOnlineIocState": 1,
+                "hrOnlineState": "当前在线",
+                "hrResumeOperationState": "",
+                "id": 1147696184,
+                "modularState": 1,
+                "staffName": "卢女士",
+                "state": 1
+            },
+            "url": "//www.zhaopin.com/beijing/",
+            "emailListPc": "http://jobs.zhaopin.com/CC827052890J40347205012.htm"
+        },
+        "taskId": "2cd8f86dcb6c4cfcb6290aadbf475ecd"
+    }
+}

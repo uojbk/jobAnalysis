@@ -1,0 +1,1011 @@
+{
+    "jobNumber": "CC827052890J40347236012",
+    "navigationList": [
+        {
+            "text": "首页",
+            "link": "https://www.zhaopin.com",
+            "type": 1,
+            "isNew": false,
+            "current": false,
+            "id": "index",
+            "icon": ""
+        },
+        {
+            "text": "城市频道",
+            "link": "//www.zhaopin.com/citymap",
+            "type": 2,
+            "isNew": false,
+            "current": false,
+            "isUnRead": false,
+            "id": "citymap",
+            "icon": ""
+        },
+        {
+            "text": "政企招聘",
+            "link": "https://govjob.zhaopin.com",
+            "type": 3,
+            "isNew": false,
+            "current": false,
+            "id": "govservice",
+            "icon": ""
+        },
+        {
+            "text": "校园招聘",
+            "link": "//xiaoyuan.zhaopin.com",
+            "type": 4,
+            "isNew": false,
+            "current": false,
+            "icon": "",
+            "id": "xiaoyuan"
+        },
+        {
+            "text": "高端职位",
+            "link": "https://highpin.zhaopin.com/?fromType=1132",
+            "type": 5,
+            "isNew": false,
+            "current": false,
+            "id": "highpin",
+            "icon": ""
+        },
+        {
+            "text": "海外招聘",
+            "link": "https://overseas.zhaopin.com",
+            "type": 6,
+            "isNew": false,
+            "current": false,
+            "id": "overseas",
+            "icon": ""
+        },
+        {
+            "text": "人才发展中心",
+            "link": "https://td.zhaopin.com",
+            "type": 7,
+            "isNew": false,
+            "current": false,
+            "id": "td",
+            "icon": ""
+        },
+        {
+            "text": "职Q社区",
+            "link": "//zq.zhaopin.com?utm_source=%E9%A6%96%E9%A1%B5&utm_medium=button&utm_campaign=&utm_term=&utm_content=",
+            "type": 8,
+            "isNew": false,
+            "current": false,
+            "id": "zq",
+            "icon": ""
+        }
+    ],
+    "reportData": {
+        "srccode": "",
+        "srcid": "",
+        "traceid": "",
+        "refcode": "",
+        "eptReason": "",
+        "actionid": "ca025cb7-7f28-4e7e-ade8-c1d2617d4b4b",
+        "funczone": 402001,
+        "sid": ""
+    },
+    "passportWidgetAppId": "f0ab0377c3b04abc957cdd38b8d003a2",
+    "passportWidgetRefer": "121126445",
+    "user": {
+        "baseInfo": {
+            "name": "",
+            "id": null,
+            "cityDistrictId": null,
+            "cityName": null,
+            "cityId": null
+        },
+        "resumes": {},
+        "isPageOpen": false,
+        "userCityPage": {},
+        "ipCity": null
+    },
+    "jobInfo": {
+        "jobSummary": {},
+        "jobDetail": {
+            "detailedCompany": {
+                "auditNature": null,
+                "companyLogo": "https://rd5-public.zhaopin.cn/imgs/company/3c6f8b374af347b0decdcfff3468618f.jpg",
+                "videoUrl": "",
+                "financingStageName": "已上市",
+                "companyName": "智联网络技术有限公司",
+                "companyNumber": "CZ827052890",
+                "menVipUrl": "",
+                "menVipLevel": 0,
+                "industryNameLevel": "互联网",
+                "companySize": "1000-9999人",
+                "companyDescription": "智联招聘是中国领先的职业发展平台，为用户的整个职业生涯提供相关职业及发展机会。    近年来，智联招聘积极进行战略转型，以覆盖求职者整个职业生涯为出发点，打造“3的三次方”产品模型，即为学生、白领、高端（专业人士或管理人士），匹配3类产品：测评（我是谁）、网络招聘（我能干什么）、教育培训（我如何进步），并通过线上、线下、无线三个渠道，为职场人的全面发展打造平台。从而实现从“简历仓库”到“人才加工厂”的战略转型，为中国人才市场打造一个闭环生态链。    智联优势：专业服务：成立于1994年的智联招聘，是国内首屈一指的人力资源服务商，率先将国际先进的人力资源服务理念与经验同中国迅速发展的人才市场实际情况相结合，确保专业、迅速、准确地为企业找到合适人才。    全渠道广泛覆盖：通过与搜索引擎、联盟、社交网络等合作，全方位、多渠道锁定各职业发展阶段的求职人群。同时在全国拥有37家分公司，南北两大互动营销中心，覆盖100多座城市，形成“线上+线下+无线”联动的招聘平台。    广受信赖的职业发展平台：智联招聘旗下的zhaopin.com网站是中国备受欢迎的招聘网站，日均活跃求职者用户468万，累计合作企业351万家。截至2016年12月31日，在过去的12个月中，跨国公司、中小型企业和国企等雇主在智联招聘的平台上年度共计发布约4111万个工作职位。    强大的优质人才储备：23年人才储备历史，智联拥有强大的白领人才库，截至2017年3月31日，智联招聘拥有1.35亿注册用户，平均学历及综合素质为行业内领先，同时在优质人才群体中拥有极高的忠诚度。 ",
+                "companyUrl": "http://company.zhaopin.com/CZ827052890.htm",
+                "bestEmployerType": 0,
+                "bestEmployerLabel": [
+                    {
+                        "state": 0,
+                        "value": "工作环境好"
+                    },
+                    {
+                        "state": 0,
+                        "value": "氛围活跃"
+                    },
+                    {
+                        "state": 0,
+                        "value": "同事很nice"
+                    }
+                ],
+                "industryLevel": "互联网",
+                "url": "http://company.zhaopin.com/CZ827052890.htm"
+            },
+            "detailedPosition": {
+                "welfareLabel": [
+                    {
+                        "state": 0,
+                        "value": "五险一金"
+                    },
+                    {
+                        "state": 0,
+                        "value": "通讯补助"
+                    },
+                    {
+                        "state": 0,
+                        "value": "带薪年假"
+                    },
+                    {
+                        "state": 0,
+                        "value": "周末双休"
+                    }
+                ],
+                "workType": "全职",
+                "tradingArea": "",
+                "subJobType": "47",
+                "positionStatus": 3,
+                "skillLabel": [
+                    {
+                        "state": 0,
+                        "value": "SQL"
+                    },
+                    {
+                        "state": 0,
+                        "value": "SAS"
+                    },
+                    {
+                        "state": 0,
+                        "value": "MySQL"
+                    },
+                    {
+                        "state": 0,
+                        "value": "Python"
+                    }
+                ],
+                "jobDesc": "<p>【公司介绍】<br></p><p>公司名称：中关村融资担保</p><p>1、于1999年12月16日正式成立，是北京市政府批准设立的国有政策性专业担保机构；</p><p>2、中关村发展集团的控股子公司，中关村担保公司一直以来坚持服务科技及现代服务业中小微企业，服务中关村示范区发展，努力实现国有资产的保值增值；</p><p>3、至2020年底，公司注册资本29.13亿元，净资产达40亿元，年担保规模超过400亿，未来将进一步扩大资本实力，已成为国内科技担保机构的领军企业；</p><p>4、成立20年来累计为6万家次科技型中小微企业提供3000多亿元的担保服务，服务客户中1100余家企业上市或新三板挂牌。</p><p></p><p></p><p>.</p><p></p><p>【岗位职责】</p><p>1、从宏观角度构建业务部门数据模型，提供强有力的预测分析，数据监测及预警支持。</p><p>2、深度参与经营管理分析，搭建业务经营分析框架，进行ROI相关数据统计，变化趋势分析，日常监控，提供决策依据。</p><p>3、负责重要专项分析，能够利用合理的数据模型和算法，主动发现业务的问题和机会，支持所负责业务模块的重要战略决策。</p><p>4、 参与日常业务数据分析需求调研，与产研深度配合，完成可视化分析报表及经营分析报告输出。</p><p>5、了解项目管理，能协调外部服务厂商，跟进数据仓库建设及数据应用过程中的问题。</p><p>6、完成领导交办的其他工作。</p><div>  .</div><div>  【招聘要求】</div><div>  <p>1、***本科及以上学历，计算机，统计学，数学类专业优先。</p>  <p>2、五年以上数据分析相关工作经验，有一定金融行业背景或经验。</p>  <p>3、对数据敏感，优秀的学习能力，逻辑思维能力，归纳总结能力，具备优秀的抽象思维及商业化思维，善于通过数据发现问题本质，探索业务增长点。</p>  <p>4、 熟练掌握SQL，会使用Python，SAS等分析工具，熟悉BI模型构建等过程。</p>  <p>5、 工作严谨认真，具备优秀的抗压能力和独立解决问题的能力</p>  <p></p></div><p></p><div>  .  <br></div><div>  【面试方法】  <br></div><p>1、面试流程：现场面试；薪酬税前年包30-35万；</p><p></p><p>2、工作时间：朝九晚六，午休1.5H，周末双休，节假日正常休假。</p><p>3、劳动合同：和中关村签劳动合同，入职缴纳五险一金。</p><p></p><p>4、工作地点：北京市,海淀区,西三环,中关村国防科技园(16号线苏州桥附近)</p>",
+                "workAddress": "北京理工大学中关村校区国防科技园，北京市,海淀区,西三环,中关村国防科技园(16号线苏州桥附近)",
+                "latitude": "39.960048",
+                "longitude": "116.310073",
+                "positionPublishTime": "2022-09-30 00:15:20",
+                "education": "本科",
+                "positionUrl": "http://jobs.zhaopin.com/CC827052890J40347236012.htm",
+                "applyType": "1",
+                "salary60": "2.5万-3万",
+                "positionWorkingExp": "5-10年",
+                "positionCityId": "530",
+                "positionWorkCity": "北京",
+                "recruitNumber": 1,
+                "salaryCount": "",
+                "performanceBonus": "",
+                "positionNumber": "CC827052890J40347236012",
+                "positionName": "数据分析岗.(猎头代招)",
+                "positionCityDistrict": "海淀区",
+                "positionCommercialLabel": [],
+                "chatWindow": 1,
+                "hasAppliedPosition": false,
+                "positionHighlight": "知名国企",
+                "jobTypeLevelName": "数据工程师",
+                "rpoProxied": false,
+                "rpoProxy": false,
+                "rpoProxyDisplayOrgName": "",
+                "salaryType": 1,
+                "salaryReal": "25001-30000",
+                "internshipMonths": 0,
+                "weeklyInternshipDays": 0,
+                "canBeRegular": false,
+                "provideInternshipCertificate": false,
+                "canRemoteInternship": false,
+                "futureJob": false,
+                "futureJobUrl": "",
+                "bestEmployerType": 0,
+                "bestEmployerLabel": [
+                    {
+                        "state": 0,
+                        "value": "工作环境好"
+                    },
+                    {
+                        "state": 0,
+                        "value": "氛围活跃"
+                    },
+                    {
+                        "state": 0,
+                        "value": "同事很nice"
+                    }
+                ],
+                "companyName": "智联网络技术有限公司",
+                "companyNumber": "CZ827052890",
+                "menVipUrl": "",
+                "menVipLevel": 0,
+                "jobDescPC": "<p>【公司介绍】<br></p><p>公司名称：中关村融资担保</p><p>1、于1999年12月16日正式成立，是北京市政府批准设立的国有政策性专业担保机构；</p><p>2、中关村发展集团的控股子公司，中关村担保公司一直以来坚持服务科技及现代服务业中小微企业，服务中关村示范区发展，努力实现国有资产的保值增值；</p><p>3、至2020年底，公司注册资本29.13亿元，净资产达40亿元，年担保规模超过400亿，未来将进一步扩大资本实力，已成为国内科技担保机构的领军企业；</p><p>4、成立20年来累计为6万家次科技型中小微企业提供3000多亿元的担保服务，服务客户中1100余家企业上市或新三板挂牌。</p><p></p><p></p><p>.</p><p></p><p>【岗位职责】</p><p>1、从宏观角度构建业务部门数据模型，提供强有力的预测分析，数据监测及预警支持。</p><p>2、深度参与经营管理分析，搭建业务经营分析框架，进行ROI相关数据统计，变化趋势分析，日常监控，提供决策依据。</p><p>3、负责重要专项分析，能够利用合理的数据模型和算法，主动发现业务的问题和机会，支持所负责业务模块的重要战略决策。</p><p>4、 参与日常业务数据分析需求调研，与产研深度配合，完成可视化分析报表及经营分析报告输出。</p><p>5、了解项目管理，能协调外部服务厂商，跟进数据仓库建设及数据应用过程中的问题。</p><p>6、完成领导交办的其他工作。</p><div>  .</div><div>  【招聘要求】</div><div>  <p>1、***本科及以上学历，计算机，统计学，数学类专业优先。</p>  <p>2、五年以上数据分析相关工作经验，有一定金融行业背景或经验。</p>  <p>3、对数据敏感，优秀的学习能力，逻辑思维能力，归纳总结能力，具备优秀的抽象思维及商业化思维，善于通过数据发现问题本质，探索业务增长点。</p>  <p>4、 熟练掌握SQL，会使用Python，SAS等分析工具，熟悉BI模型构建等过程。</p>  <p>5、 工作严谨认真，具备优秀的抗压能力和独立解决问题的能力</p>  <p></p></div><p></p><div>  .  <br></div><div>  【面试方法】  <br></div><p>1、面试流程：现场面试；薪酬税前年包30-35万；</p><p></p><p>2、工作时间：朝九晚六，午休1.5H，周末双休，节假日正常休假。</p><p>3、劳动合同：和中关村签劳动合同，入职缴纳五险一金。</p><p></p><p>4、工作地点：北京市,海淀区,西三环,中关村国防科技园(16号线苏州桥附近)</p>",
+                "emplType": "全职",
+                "jobStatus": 3,
+                "publishTime": "2022-09-30 00:15:20",
+                "workingExp": "5-10年",
+                "cityId": "530",
+                "workCity": "北京",
+                "number": "CC827052890J40347236012",
+                "name": "数据分析岗.(猎头代招)",
+                "cityDistrict": "海淀区",
+                "staff": {
+                    "authenticationState": 1,
+                    "avatar": "https://storage-public.zhaopin.cn/user/avatar/d1597794af1c497292272b0e5257558b/5e3999ad5a8d62188ac5ba8ca32e058f.jpg",
+                    "greeting": "",
+                    "greetingHasDelivery": "",
+                    "hrJob": "招聘HR",
+                    "hrOnlineIocState": 1,
+                    "hrOnlineState": "当前在线",
+                    "hrResumeOperationState": "",
+                    "id": 1101483039,
+                    "modularState": 1,
+                    "staffName": "佟先生",
+                    "state": 1
+                },
+                "url": "//www.zhaopin.com/beijing/",
+                "emailListPc": "http://jobs.zhaopin.com/CC827052890J40347236012.htm",
+                "entryModel": {
+                    "companyAddress": "",
+                    "companyImage": "",
+                    "companyName": "",
+                    "companySize": "",
+                    "entryCompanyTitle": "",
+                    "state": 0
+                }
+            },
+            "taskId": "441bbd218db344ac81775584cabe0ad5"
+        },
+        "jobPublisher": {},
+        "jobNumber": ""
+    },
+    "jobSimilar": {
+        "jobSimilarList": [],
+        "jobCount": 0,
+        "method": "",
+        "methodGroup": "",
+        "methodReportData": {
+            "traceid": "",
+            "method": "",
+            "methodGroup": ""
+        }
+    },
+    "recommendData": {
+        "hotCity": [
+            {
+                "code": "530",
+                "pinyin": "beijing",
+                "name": "北京",
+                "url": "https://jobs.zhaopin.com/beijing/"
+            },
+            {
+                "code": "538",
+                "pinyin": "shanghai",
+                "name": "上海",
+                "url": "https://jobs.zhaopin.com/shanghai/"
+            },
+            {
+                "code": "765",
+                "pinyin": "shenzhen",
+                "name": "深圳",
+                "url": "https://jobs.zhaopin.com/shenzhen/"
+            },
+            {
+                "code": "763",
+                "pinyin": "guangzhou",
+                "name": "广州",
+                "url": "https://jobs.zhaopin.com/guangzhou/"
+            },
+            {
+                "code": "531",
+                "pinyin": "tianjin",
+                "name": "天津",
+                "url": "https://jobs.zhaopin.com/tianjin/"
+            },
+            {
+                "code": "801",
+                "pinyin": "chengdu",
+                "name": "成都",
+                "url": "https://jobs.zhaopin.com/chengdu/"
+            },
+            {
+                "code": "653",
+                "pinyin": "hangzhou",
+                "name": "杭州",
+                "url": "https://jobs.zhaopin.com/hangzhou/"
+            },
+            {
+                "code": "736",
+                "pinyin": "wuhan",
+                "name": "武汉",
+                "url": "https://jobs.zhaopin.com/wuhan/"
+            },
+            {
+                "code": "600",
+                "pinyin": "dalian",
+                "name": "大连",
+                "url": "https://jobs.zhaopin.com/dalian/"
+            },
+            {
+                "code": "613",
+                "pinyin": "changchun",
+                "name": "长春",
+                "url": "https://jobs.zhaopin.com/changchun/"
+            },
+            {
+                "code": "635",
+                "pinyin": "nanjing",
+                "name": "南京",
+                "url": "https://jobs.zhaopin.com/nanjing/"
+            },
+            {
+                "code": "702",
+                "pinyin": "jinan",
+                "name": "济南",
+                "url": "https://jobs.zhaopin.com/jinan/"
+            },
+            {
+                "code": "703",
+                "pinyin": "qingdao",
+                "name": "青岛",
+                "url": "https://jobs.zhaopin.com/qingdao/"
+            },
+            {
+                "code": "639",
+                "pinyin": "suzhou",
+                "name": "苏州",
+                "url": "https://jobs.zhaopin.com/suzhou/"
+            },
+            {
+                "code": "599",
+                "pinyin": "shenyang",
+                "name": "沈阳",
+                "url": "https://jobs.zhaopin.com/shenyang/"
+            },
+            {
+                "code": "854",
+                "pinyin": "xian",
+                "name": "西安",
+                "url": "https://jobs.zhaopin.com/xian/"
+            },
+            {
+                "code": "719",
+                "pinyin": "zhengzhou",
+                "name": "郑州",
+                "url": "https://jobs.zhaopin.com/zhengzhou/"
+            },
+            {
+                "code": "749",
+                "pinyin": "changsha",
+                "name": "长沙",
+                "url": "https://jobs.zhaopin.com/changsha/"
+            },
+            {
+                "code": "551",
+                "pinyin": "chongqing",
+                "name": "重庆",
+                "url": "https://jobs.zhaopin.com/chongqing/"
+            },
+            {
+                "code": "622",
+                "pinyin": "haerbin",
+                "name": "哈尔滨",
+                "url": "https://jobs.zhaopin.com/haerbin/"
+            },
+            {
+                "code": "636",
+                "pinyin": "wuxi",
+                "name": "无锡",
+                "url": "https://jobs.zhaopin.com/wuxi/"
+            },
+            {
+                "code": "654",
+                "pinyin": "ningbo",
+                "name": "宁波",
+                "url": "https://jobs.zhaopin.com/ningbo/"
+            },
+            {
+                "code": "681",
+                "pinyin": "fuzhou",
+                "name": "福州",
+                "url": "https://jobs.zhaopin.com/fuzhou/"
+            },
+            {
+                "code": "682",
+                "pinyin": "xiamen",
+                "name": "厦门",
+                "url": "https://jobs.zhaopin.com/xiamen/"
+            },
+            {
+                "code": "565",
+                "pinyin": "shijiazhuang",
+                "name": "石家庄",
+                "url": "https://jobs.zhaopin.com/shijiazhuang/"
+            },
+            {
+                "code": "664",
+                "pinyin": "hefei",
+                "name": "合肥",
+                "url": "https://jobs.zhaopin.com/hefei/"
+            },
+            {
+                "code": "773",
+                "pinyin": "huizhou",
+                "name": "惠州",
+                "url": "https://jobs.zhaopin.com/huizhou/"
+            },
+            {
+                "code": "576",
+                "pinyin": "taiyuan",
+                "name": "太原",
+                "url": "https://jobs.zhaopin.com/taiyuan/"
+            },
+            {
+                "code": "691",
+                "pinyin": "nanchang",
+                "name": "南昌",
+                "url": "https://jobs.zhaopin.com/nanchang/"
+            },
+            {
+                "code": "831",
+                "pinyin": "kunming",
+                "name": "昆明",
+                "url": "https://jobs.zhaopin.com/kunming/"
+            }
+        ],
+        "jobType": [
+            {
+                "label": "项目助理",
+                "intKey": 3000300150000,
+                "value": "3000300150000",
+                "parent": "3000300000000",
+                "pinyin": "xiangmuzhuli",
+                "qk": "sj815",
+                "children": [],
+                "root": "3000000000000",
+                "name": "项目助理",
+                "url": "https://jobs.zhaopin.com/sj815/"
+            },
+            {
+                "label": "放映员",
+                "intKey": 4000100030000,
+                "value": "4000100030000",
+                "parent": "4000100000000",
+                "pinyin": "fangyingyuan",
+                "qk": "sj2123",
+                "children": [],
+                "root": "4000000000000",
+                "name": "放映员",
+                "url": "https://jobs.zhaopin.com/sj2123/"
+            },
+            {
+                "label": "化学技术应用",
+                "intKey": 10000100060000,
+                "value": "10000100060000",
+                "parent": "10000100000000",
+                "pinyin": "huaxuejishuyingyong",
+                "qk": "sj112",
+                "children": [],
+                "root": "10000000000000",
+                "name": "化学技术应用",
+                "url": "https://jobs.zhaopin.com/sj112/"
+            },
+            {
+                "label": "网络与信息安全工程师",
+                "intKey": 20000200210000,
+                "value": "20000200210000",
+                "parent": "20000200000000",
+                "pinyin": "wangluoyuxinxianquangongchengshi",
+                "qk": "sj059",
+                "children": [],
+                "root": "20000000000000",
+                "name": "网络与信息安全工程师",
+                "url": "https://jobs.zhaopin.com/sj059/"
+            },
+            {
+                "label": "理科教师",
+                "intKey": 11001000050000,
+                "value": "11001000050000",
+                "parent": "11001000000000",
+                "pinyin": "likejiaoshi",
+                "qk": "sj791",
+                "children": [],
+                "root": "11000000000000",
+                "name": "理科教师",
+                "url": "https://jobs.zhaopin.com/sj791/"
+            },
+            {
+                "label": "证券事务代表",
+                "intKey": 14000700160000,
+                "value": "14000700160000",
+                "parent": "14000700000000",
+                "pinyin": "zhengquanshiwudaibiao",
+                "qk": "mj15",
+                "children": [],
+                "root": "14000000000000",
+                "name": "证券事务代表",
+                "url": "https://jobs.zhaopin.com/mj15/"
+            },
+            {
+                "label": "创意总监",
+                "intKey": 16000500030000,
+                "value": "16000500030000",
+                "parent": "16000500000000",
+                "pinyin": "chuangyizongjian",
+                "qk": "sj5049",
+                "children": [],
+                "root": "16000000000000",
+                "name": "创意总监",
+                "url": "https://jobs.zhaopin.com/sj5049/"
+            },
+            {
+                "label": "医疗器械售后工程师",
+                "intKey": 13000200110000,
+                "value": "13000200110000",
+                "parent": "13000200000000",
+                "pinyin": "yiliaoqixieshouhougongchengshi",
+                "qk": "mj242",
+                "children": [],
+                "root": "13000000000000",
+                "name": "医疗器械售后工程师",
+                "url": "https://jobs.zhaopin.com/mj242/"
+            },
+            {
+                "label": "水族馆表演演员",
+                "intKey": 6001300140000,
+                "value": "6001300140000",
+                "parent": "6001300000000",
+                "pinyin": "shuizuguanbiaoyanyanyuan",
+                "qk": "sj2173",
+                "children": [],
+                "root": "6000000000000",
+                "name": "水族馆表演演员",
+                "url": "https://jobs.zhaopin.com/sj2173/"
+            },
+            {
+                "label": "IT技术/研发总监",
+                "intKey": 9000300100000,
+                "value": "9000300100000",
+                "parent": "9000300000000",
+                "pinyin": "ITjishu/yanfazongjian",
+                "qk": "sj928",
+                "children": [],
+                "root": "9000000000000",
+                "name": "IT技术/研发总监",
+                "url": "https://jobs.zhaopin.com/sj928/"
+            },
+            {
+                "label": "通信标准化工程师",
+                "intKey": 9000500390000,
+                "value": "9000500390000",
+                "parent": "9000500000000",
+                "pinyin": "tongxinbiaozhunhuagongchengshi",
+                "qk": "sj558",
+                "children": [],
+                "root": "9000000000000",
+                "name": "通信标准化工程师",
+                "url": "https://jobs.zhaopin.com/sj558/"
+            },
+            {
+                "label": "客户续期管理",
+                "intKey": 13000100130000,
+                "value": "13000100130000",
+                "parent": "13000100000000",
+                "pinyin": "kehuxuqiguanli",
+                "qk": "sj541",
+                "children": [],
+                "root": "13000000000000",
+                "name": "客户续期管理",
+                "url": "https://jobs.zhaopin.com/sj541/"
+            },
+            {
+                "label": "工程监理",
+                "intKey": 7000200090000,
+                "value": "7000200090000",
+                "parent": "7000200000000",
+                "pinyin": "gongchengjianli",
+                "qk": "sj106",
+                "children": [],
+                "root": "7000000000000",
+                "name": "工程监理",
+                "url": "https://jobs.zhaopin.com/sj106/"
+            },
+            {
+                "label": "舞台艺术指导",
+                "intKey": 17000600050000,
+                "value": "17000600050000",
+                "parent": "17000600000000",
+                "pinyin": "wutaiyishuzhidao",
+                "qk": "sj186",
+                "children": [],
+                "root": "17000000000000",
+                "name": "舞台艺术指导",
+                "url": "https://jobs.zhaopin.com/sj186/"
+            },
+            {
+                "label": "茶艺师",
+                "intKey": 6000400020000,
+                "value": "6000400020000",
+                "parent": "6000400000000",
+                "pinyin": "chayishi",
+                "qk": "sj8136",
+                "children": [],
+                "root": "6000000000000",
+                "name": "茶艺师",
+                "url": "https://jobs.zhaopin.com/sj8136/"
+            },
+            {
+                "label": "化工项目管理",
+                "intKey": 3000300180000,
+                "value": "3000300180000",
+                "parent": "3000300000000",
+                "pinyin": "huagongxiangmuguanli",
+                "qk": "sj503",
+                "children": [],
+                "root": "3000000000000",
+                "name": "化工项目管理",
+                "url": "https://jobs.zhaopin.com/sj503/"
+            },
+            {
+                "label": "物料专员",
+                "intKey": 2000100100000,
+                "value": "2000100100000",
+                "parent": "2000100000000",
+                "pinyin": "wuliaozhuanyuan",
+                "qk": "sj2165",
+                "children": [],
+                "root": "2000000000000",
+                "name": "物料专员",
+                "url": "https://jobs.zhaopin.com/sj2165/"
+            },
+            {
+                "label": "培训策划",
+                "intKey": 11000300070000,
+                "value": "11000300070000",
+                "parent": "11000300000000",
+                "pinyin": "peixuncehua",
+                "qk": "sj787",
+                "children": [],
+                "root": "11000000000000",
+                "name": "培训策划",
+                "url": "https://jobs.zhaopin.com/sj787/"
+            },
+            {
+                "label": "记者",
+                "intKey": 1000300020000,
+                "value": "1000300020000",
+                "parent": "1000300000000",
+                "pinyin": "jizhe",
+                "qk": "sj612",
+                "children": [],
+                "root": "1000000000000",
+                "name": "记者",
+                "url": "https://jobs.zhaopin.com/sj612/"
+            },
+            {
+                "label": "3D设计制作",
+                "intKey": 17000500020000,
+                "value": "17000500020000",
+                "parent": "17000500000000",
+                "pinyin": "3Dshejizhizuo",
+                "qk": "sj554",
+                "children": [],
+                "root": "17000000000000",
+                "name": "3D设计制作",
+                "url": "https://jobs.zhaopin.com/sj554/"
+            },
+            {
+                "label": "企划",
+                "intKey": 16000100060000,
+                "value": "16000100060000",
+                "parent": "16000100000000",
+                "pinyin": "qihua",
+                "qk": "sj5037",
+                "children": [],
+                "root": "16000000000000",
+                "name": "企划",
+                "url": "https://jobs.zhaopin.com/sj5037/"
+            },
+            {
+                "label": "工程造价/预结算",
+                "intKey": 7000200110000,
+                "value": "7000200110000",
+                "parent": "7000200000000",
+                "pinyin": "gongchengzaojia/yujiesuan",
+                "qk": "sj102",
+                "children": [],
+                "root": "7000000000000",
+                "name": "工程造价/预结算",
+                "url": "https://jobs.zhaopin.com/sj102/"
+            },
+            {
+                "label": "日餐厨工",
+                "intKey": 6000400130000,
+                "value": "6000400130000",
+                "parent": "6000400000000",
+                "pinyin": "ricanxuetu",
+                "qk": "mj300",
+                "children": [],
+                "root": "6000000000000",
+                "name": "日餐厨工",
+                "url": "https://jobs.zhaopin.com/mj300/"
+            },
+            {
+                "label": "装卸工",
+                "intKey": 2000400060000,
+                "value": "2000400060000",
+                "parent": "2000400000000",
+                "pinyin": "zhuangxiegong",
+                "qk": "sj806",
+                "children": [],
+                "root": "2000000000000",
+                "name": "装卸工",
+                "url": "https://jobs.zhaopin.com/sj806/"
+            },
+            {
+                "label": "前台/总机/接待",
+                "intKey": 14000700080000,
+                "value": "14000700080000",
+                "parent": "14000700000000",
+                "pinyin": "qiantai/zongji/jiedai",
+                "qk": "sj117",
+                "children": [],
+                "root": "14000000000000",
+                "name": "前台/总机/接待",
+                "url": "https://jobs.zhaopin.com/sj117/"
+            },
+            {
+                "label": "游戏策划",
+                "intKey": 17000500140000,
+                "value": "17000500140000",
+                "parent": "17000500000000",
+                "pinyin": "youxicehua",
+                "qk": "sj671",
+                "children": [],
+                "root": "17000000000000",
+                "name": "游戏策划",
+                "url": "https://jobs.zhaopin.com/sj671/"
+            },
+            {
+                "label": "印染工",
+                "intKey": 15000100450000,
+                "value": "15000100450000",
+                "parent": "15000100000000",
+                "pinyin": "yinrangong",
+                "qk": "sj2244",
+                "children": [],
+                "root": "15000000000000",
+                "name": "印染工",
+                "url": "https://jobs.zhaopin.com/sj2244/"
+            },
+            {
+                "label": "IT技术支持/维护工程师",
+                "intKey": 20000200060000,
+                "value": "20000200060000",
+                "parent": "20000200000000",
+                "pinyin": "ITjishuzhichi/weihugongchengshi",
+                "qk": "sj315",
+                "children": [],
+                "root": "20000000000000",
+                "name": "IT技术支持/维护工程师",
+                "url": "https://jobs.zhaopin.com/sj315/"
+            },
+            {
+                "label": "美发培训师",
+                "intKey": 11000900050000,
+                "value": "11000900050000",
+                "parent": "11000900000000",
+                "pinyin": "meifapeixunshi",
+                "qk": "sj2084",
+                "children": [],
+                "root": "11000000000000",
+                "name": "美发培训师",
+                "url": "https://jobs.zhaopin.com/sj2084/"
+            },
+            {
+                "label": "运营督导",
+                "intKey": 5000400040000,
+                "value": "5000400040000",
+                "parent": "5000400000000",
+                "pinyin": "yunyingdudao",
+                "qk": "mj195",
+                "children": [],
+                "root": "5000000000000",
+                "name": "运营督导",
+                "url": "https://jobs.zhaopin.com/mj195/"
+            }
+        ],
+        "companyList": [
+            {
+                "companyName": "北京三快在线科技有限公司",
+                "url": "http://special.zhaopin.com/2017/bj/bjsk032382",
+                "cityName": "北京",
+                "name": "北京三快在线科技有限公司"
+            },
+            {
+                "companyName": "青岛金石教育科技股份有限公司",
+                "url": "http://company.zhaopin.com/CZ223898110.htm",
+                "cityName": "青岛",
+                "name": "青岛金石教育科技股份有限公司"
+            },
+            {
+                "companyName": "江苏康缘药业股份有限公司",
+                "url": "http://company.zhaopin.com/CZ120914180.htm",
+                "cityName": "连云港",
+                "name": "江苏康缘药业股份有限公司"
+            },
+            {
+                "companyName": "华润置地有限公司",
+                "url": "http://company.zhaopin.com/CZ358101520.htm",
+                "cityName": "深圳",
+                "name": "华润置地有限公司"
+            },
+            {
+                "companyName": "北京汇通天下物联科技有限公司",
+                "url": "http://special.zhaopin.com/pagepublish/45356671/index.html",
+                "cityName": "北京",
+                "name": "北京汇通天下物联科技有限公司"
+            },
+            {
+                "companyName": "北京理工新源信息科技有限公司",
+                "url": "http://special.zhaopin.com/pagepublish/34563773/index.html",
+                "cityName": "北京",
+                "name": "北京理工新源信息科技有限公司"
+            },
+            {
+                "companyName": "武汉佰钧成技术有限责任公司",
+                "url": "http://company.zhaopin.com/%E6%AD%A6%E6%B1%89%E4%BD%B0%E9%92%A7%E6%88%90%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E8%B4%A3%E4%BB%BB%E5%85%AC%E5%8F%B8_CC364485728.htm",
+                "cityName": "武汉",
+                "name": "武汉佰钧成技术有限责任公司"
+            },
+            {
+                "companyName": "北京云鸟科技有限公司",
+                "url": "http://company.zhaopin.com/CZ257666030.htm",
+                "cityName": "北京",
+                "name": "北京云鸟科技有限公司"
+            },
+            {
+                "companyName": "通标标准技术服务（上海）有限公司",
+                "url": "http://company.zhaopin.com/CZ466953210.htm",
+                "cityName": "上海",
+                "name": "通标标准技术服务（上海）有限公司"
+            },
+            {
+                "companyName": "青岛中瑞汽车服务有限公司",
+                "url": "http://special.zhaopin.com/pagepublish/44664711/index.html",
+                "cityName": "青岛",
+                "name": "青岛中瑞汽车服务有限公司"
+            },
+            {
+                "companyName": "跨越速运集团有限公司",
+                "url": "http://kye2019.zhaopin.com/",
+                "cityName": "深圳",
+                "name": "跨越速运集团有限公司"
+            },
+            {
+                "companyName": "蓝月亮（中国）有限公司",
+                "url": "http://company.zhaopin.com/CZ000558690.htm",
+                "cityName": "广州",
+                "name": "蓝月亮（中国）有限公司"
+            },
+            {
+                "companyName": "华为技术有限公司",
+                "url": "http://company.zhaopin.com/CC000542945.htm",
+                "cityName": "深圳",
+                "name": "华为技术有限公司"
+            },
+            {
+                "companyName": "成都倍特药业有限公司",
+                "url": "http://company.zhaopin.com/CZ130860980.htm",
+                "cityName": "成都",
+                "name": "成都倍特药业有限公司"
+            },
+            {
+                "companyName": "亚士创能科技（上海）股份有限公司",
+                "url": "http://company.zhaopin.com/CZ468881510.htm",
+                "cityName": "上海",
+                "name": "亚士创能科技（上海）股份有限公司"
+            },
+            {
+                "companyName": "百胜餐饮（西安）有限公司",
+                "url": "http://special.zhaopin.com/xa/2012/kfc040607/index.htm",
+                "cityName": "西安",
+                "name": "百胜餐饮（西安）有限公司"
+            },
+            {
+                "companyName": "太阳雨集团有限公司",
+                "url": "http://company.zhaopin.com/CZ365722420.htm",
+                "cityName": "连云港",
+                "name": "太阳雨集团有限公司"
+            },
+            {
+                "companyName": "北京金橙子科技股份有限公司",
+                "url": "http://company.zhaopin.com/CZ137895590.htm",
+                "cityName": "北京",
+                "name": "北京金橙子科技股份有限公司"
+            },
+            {
+                "companyName": "浙江蓝鸽科技有限公司",
+                "url": "http://company.zhaopin.com/CZ526418220.htm",
+                "cityName": "嘉兴",
+                "name": "浙江蓝鸽科技有限公司"
+            },
+            {
+                "companyName": "贝壳找房（南京）科技有限公司",
+                "url": "https://special.zhaopin.com/Flying/pagepublish/81405228/index.html",
+                "cityName": "南京",
+                "name": "贝壳找房（南京）科技有限公司"
+            },
+            {
+                "companyName": "北京环球优路教育科技股份有限公司",
+                "url": "http://special.zhaopin.com/pagepublish/45379172/index.html",
+                "cityName": "北京",
+                "name": "北京环球优路教育科技股份有限公司"
+            },
+            {
+                "companyName": "北京中海技创科技发展有限公司",
+                "url": "http://company.zhaopin.com/CC132127810.htm",
+                "cityName": "北京",
+                "name": "北京中海技创科技发展有限公司"
+            },
+            {
+                "companyName": "中国国际海运集装箱（集团）股份有限公司",
+                "url": "http://company.zhaopin.com/CZ000626580.htm",
+                "cityName": "深圳",
+                "name": "中国国际海运集装箱（集团）股份有限公司"
+            },
+            {
+                "companyName": "重庆八戒网络股份有限公司",
+                "url": "http://company.zhaopin.com/CZ199566020.htm",
+                "cityName": "重庆",
+                "name": "重庆八戒网络股份有限公司"
+            },
+            {
+                "companyName": "天能电池集团股份有限公司",
+                "url": "http://company.zhaopin.com/%E5%A4%A9%E8%83%BD%E7%94%B5%E6%B1%A0%E9%9B%86%E5%9B%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8_CC140866035.htm",
+                "cityName": "湖州",
+                "name": "天能电池集团股份有限公司"
+            },
+            {
+                "companyName": "中国建筑第六工程局有限公司",
+                "url": "http://company.zhaopin.com/CC135067602.htm",
+                "cityName": "天津",
+                "name": "中国建筑第六工程局有限公司"
+            },
+            {
+                "companyName": "立邦涂料（中国）有限公司",
+                "url": "http://special.zhaopin.com/2018/sh/lbtl113022/",
+                "cityName": "上海",
+                "name": "立邦涂料（中国）有限公司"
+            },
+            {
+                "companyName": "辽宁忠旺集团有限公司",
+                "url": "http://company.zhaopin.com/CZ120562710.htm",
+                "cityName": "辽阳",
+                "name": "辽宁忠旺集团有限公司"
+            },
+            {
+                "companyName": "万声通讯实业有限公司",
+                "url": "http://company.zhaopin.com/CZ134412700.htm",
+                "cityName": "潍坊",
+                "name": "万声通讯实业有限公司"
+            },
+            {
+                "companyName": "中粮集团有限公司",
+                "url": "http://special.zhaopin.com/bj/2013/cofco060502/",
+                "cityName": "北京",
+                "name": "中粮集团有限公司"
+            }
+        ]
+    }
+}
